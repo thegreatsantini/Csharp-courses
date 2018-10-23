@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Mosh_course/Mosh_course/bin/Debug/netcoreapp2.1/Mosh_course.deps.json
+/Users/admin/Desktop/Mosh_course/Mosh_course/bin/Debug/netcoreapp2.1/Mosh_course.runtimeconfig.json
+/Users/admin/Desktop/Mosh_course/Mosh_course/bin/Debug/netcoreapp2.1/Mosh_course.runtimeconfig.dev.json
+/Users/admin/Desktop/Mosh_course/Mosh_course/bin/Debug/netcoreapp2.1/Mosh_course.dll
+/Users/admin/Desktop/Mosh_course/Mosh_course/bin/Debug/netcoreapp2.1/Mosh_course.pdb
+/Users/admin/Desktop/Mosh_course/Mosh_course/obj/Debug/netcoreapp2.1/Mosh_course.csprojAssemblyReference.cache
+/Users/admin/Desktop/Mosh_course/Mosh_course/obj/Debug/netcoreapp2.1/Mosh_course.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Mosh_course/Mosh_course/obj/Debug/netcoreapp2.1/Mosh_course.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Mosh_course/Mosh_course/obj/Debug/netcoreapp2.1/Mosh_course.AssemblyInfo.cs
+/Users/admin/Desktop/Mosh_course/Mosh_course/obj/Debug/netcoreapp2.1/Mosh_course.dll
+/Users/admin/Desktop/Mosh_course/Mosh_course/obj/Debug/netcoreapp2.1/Mosh_course.pdb
